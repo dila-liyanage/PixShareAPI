@@ -1,0 +1,59 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.swp
+
+# Logs
+*.log
+logs/
+*.tlg
+
+# Visual Studio
+.vscode/
+.vs
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# DotNet tools
+.dotnet/
+
+# Coverage output
+coverage/
+*.coverage
+*.coveragexml
+
+# Packages
+*.nupkg
+*.snupkg
+
+# npm cache (if using npm for front-end dependencies)
+node_modules/
+
+# Debugger
+*.vspscc
+*.vspcc
+
+# Others
+.idea/
+_ReSharper*/
+*.ide
+*.bak
+*.tmp
+
+# JetBrains Rider
+.idea/
+
+# JetBrains Rider Project files
+*.sln.iml
